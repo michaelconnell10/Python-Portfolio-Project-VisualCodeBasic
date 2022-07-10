@@ -9,13 +9,13 @@ I hypothesize that there will be a statistical reason of why some dances are per
   2. Do we have any issues with certain dances that are performed later in the series trending higher in averages just generally due to a lower sample          size?
   3. Does the statistically best celebrity end up winning the series or is this purely a popularity contest disguised as a dancing compeition?
 
-The main language I will be conducting this in will be Python (with some SQL being used within the data analysis section purely to show competency)
+The main language I will be conducting this in will be Python
 
 The "timeline" of the repositories will be as follows:
 
-1. Data Scraping - I will use Python to scrape the Wikipedia pages and then convert the data into both .csv and SQL
+1. Data Scraping - I will use Python to scrape the Wikipedia pages and then convert the data into .csv
 2. Data Cleaning - 
-3. Statistical Analysis - I will conduct this in both Excel and SQL
+3. Statistical Analysis - I will conduct this in both Excel
 4. Visual Analysis - I will conduct some visual analysis using Tableau Public
 
 At the end of the project, I hope to have displayed the following skills:
@@ -24,7 +24,6 @@ At the end of the project, I hope to have displayed the following skills:
 - Statistical Analysis
 - Tableau
 - Python
-- SQL
 
 Something of note is that I have intentionally missed out the 2020 series (series 18) for 2 reasons. Due to Covid-19, the season was shortened by 4 weeks due to the cast being 12 instead of the usual 16. This meant that the number of dances performed by each constestant was shorted as well. However, the main issue is that there were only 3 judges (with a total maximum score of 30) compared to the usual score of 40 from 4 judges.
   As such, I made the decision to leave out this series purely because using the scores out of 30 would affect the precision of the data and normalizing     the scores out of 30 to scores out of 40 would affect the accuracy. 

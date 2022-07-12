@@ -1,5 +1,7 @@
 # 1.-Data-Analysis-Description
 
+Software/Equipment Used: Mac OS, Visual Code Basic, Python
+
 The purpse of this project is to display various skills common to data analysis. Each has been split up into different repositories as a means to keep everyting organized (and make it easier if anyone wants to jump into a specific section without having to search).
 
 The objective is to quantify each score that has been awared on every series of Strictly Come Dancing to see if there is a statistical trend between when dances are typically performed during the season.
